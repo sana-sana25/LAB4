@@ -59,16 +59,6 @@ Ce projet a pour objectif de comprendre et manipuler les **Fragments Android** :
 - XML (UI)
 
 ---
-
-
-##  Exécution
-
-1. Lancer l'application
-2. Remplir les champs
-3. Cliquer sur **Envoyer**
-4. Voir le récapitulatif
-5. Cliquer sur **Retour**
-
 ---
 
 ##  Auteur
